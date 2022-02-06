@@ -1,4 +1,3 @@
-package oopsconcept;
 
 public class Iphone {
 	
